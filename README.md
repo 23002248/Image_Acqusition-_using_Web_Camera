@@ -25,8 +25,8 @@ Divide the frame into halves and assign the smaller frame and Rotate the frame u
 
 ## Program:
 
-### Developed By: EASWAR R
-### Register No: 212223230053
+### Developed By: Stephen raj Y
+### Register No: 212223230217
 
 ## i) Write the frame as JPG file
 ``` Python
@@ -109,7 +109,7 @@ cap.release()
 <img width="490" height="368" alt="image" src="https://github.com/user-attachments/assets/33b00996-7d21-46ff-9260-27ee02009923" />
 
 ### ii) Display the video
-<img width="586" height="436" alt="image" src="https://github.com/user-attachments/assets/0cc33d51-627c-4720-996a-6dd96ec98193" />
+<img width="494" height="364" alt="image" src="https://github.com/user-attachments/assets/1363be25-c421-45c4-b83e-8ee1dc347ce9" />
 
 ### iii) Display the video by resizing the window
 <img width="245" height="370" alt="image" src="https://github.com/user-attachments/assets/e5bb959d-17f4-41fd-b12b-a30b957b1481" />
